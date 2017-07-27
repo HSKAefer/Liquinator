@@ -4,5 +4,3 @@ target
 bin
 # Eclipse project settings
 .settings
-# Class files
-*.class
